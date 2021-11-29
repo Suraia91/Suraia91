@@ -3,7 +3,7 @@
 
 
 🔭 I’m currently working on free
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter and react
 <!--
 **Suraia91/Suraia91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
